@@ -1,13 +1,13 @@
                                             Topics
 
-Array
+Array - needs
  - 1D array
  - mulit dymonctional array
 
-Objects
+Objects - needs
  -what is object
 
-Operators
+Operators - needs
  1,Arithmetic Operators
  2,Assignment Operators
 
@@ -16,7 +16,7 @@ Contictions
  2,Switch
 
 Looping
- 1,For Loop
+ 1,For Loop - needs
  2,While Loop
  3,Do While Loop
 
