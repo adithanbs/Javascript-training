@@ -1,0 +1,23 @@
+code editor
+install vs code editor 
+install node
+
+online code editors
+1 codepen
+2 codesand box
+3 jsfiddle
+
+youtube soures
+
+Learn javascript full course free code camp
+Link: https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org
+
+CyberDudeNetworks Tamil full js course
+Link:https://www.youtube.com/watch?v=OuUqS8Po5ps&list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa&ab_channel=CyberDudeNetworksPvt.Ltd.
+
+
+Topics
+
+1,what is javascript and basic introduction?
+2,what is variables?
+3,data types in javascript?
