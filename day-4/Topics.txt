@@ -1,4 +1,10 @@
-Task
 
+Function
+  1,Function Declaration
+  2,Function Expression
+  3,Arrow Function
+
+
+Task
 1,Remove the duplicate number in an array
 2,Collect the add and even number in an array
