@@ -11,9 +11,6 @@ Operators - needs
  1,Arithmetic Operators
  2,Assignment Operators
 
-Contictions
- 1,If Else
- 2,Switch
 
 Looping
  1,For Loop - needs

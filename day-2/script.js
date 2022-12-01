@@ -1,27 +1,26 @@
 var a = 20 ;
 var b = 10 ;
-var c = "sarth";
+var c = "sarath";
 var d = false;
 
 
-let arr = [1,2,3,"sting",true]
-
+let result = [1,2,3,"kumar",true]
 
 
 
 let obj = {
-    name:"kumar",
-    age:2,
-    val :true
+  name:"kumar",
+  age:2,
+  val :true
 }
 
 
 // console.log(arr[3]);
 // console.log(obj.age);
-// console.log(arr.length);
+// console.log(arr.length); 
 
-for (let i = 0; i < arr.length ; i++) {
-    console.log(arr[i]);
+for (let i = 0; i < 5 ; i++) {
+    console.log(i);
   }
 
   

@@ -1,0 +1,4 @@
+Task
+
+1,Remove the duplicate number in an array
+2,Collect the add and even number in an array
