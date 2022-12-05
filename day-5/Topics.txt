@@ -1,12 +1,18 @@
-Hosting 
-
-Scopes
-
 
 Function
   1,Function Declaration
   2,Function Expression
   3,Arrow Function
+
+what is Hosting ?
+what is scope?
+let , var ,const ?
+what is clouser ?
+what is call back function ? 
+what is higheroder function ?
+what is asing and awite ? 
+what promisse ?
+
 
 
 
